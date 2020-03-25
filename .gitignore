@@ -1,0 +1,9 @@
+# dataset should not be published publicly until a license is determined
+data/
+
+# intellij configuration
+.idea/
+*.iml
+
+# compiled jar files should not be tracked with version control
+out/
